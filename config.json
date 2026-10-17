@@ -1,1 +1,0 @@
-{"features": ["avg_sleep_hours_weekday", "bedtime_adj", "daily_screen_time_hours", "pre_sleep_screen_time_min", "caffeine_drinks_per_day", "exercise_days_per_week", "weekly_study_hours", "class_attendance_percent"], "cluster_names": {"0": "Caffeine-reliant short sleeper", "1": "Screen-heavy night owl", "2": "Rested early bird, low activity", "3": "Active and balanced"}}
